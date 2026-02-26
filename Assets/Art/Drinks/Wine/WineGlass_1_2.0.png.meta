@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: b1814637da24a254f978890549b7f8da
+guid: ecb9ed887e1dd0f408dd9c811ed904a9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2384986365030181687
-    second: Flies_Shot_0
+      213: -2836573141130136386
+    second: WineGlass_1_2.0_0
   - first:
-      213: -2671648439123982327
-    second: Flies_Shot_1
+      213: 5044351672800851131
+    second: WineGlass_1_2.0_1
   - first:
-      213: 2873942919701902561
-    second: Flies_Shot_2
+      213: 2827313105088050666
+    second: WineGlass_1_2.0_2
   - first:
-      213: -4839753271112619264
-    second: Flies_Shot_3
+      213: -5776753933528736913
+    second: WineGlass_1_2.0_3
   - first:
-      213: 4755948685147596894
-    second: Flies_Shot_4
+      213: 3700993902166984609
+    second: WineGlass_1_2.0_4
   - first:
-      213: 8497504387069187642
-    second: Flies_Shot_5
+      213: 515585967838423176
+    second: WineGlass_1_2.0_5
   - first:
-      213: 4308154589412360275
-    second: Flies_Shot_6
+      213: 4049413775373579703
+    second: WineGlass_1_2.0_6
   - first:
-      213: -4724295250780743952
-    second: Flies_Shot_7
+      213: 4889587878013296027
+    second: WineGlass_1_2.0_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,220 +117,181 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Flies_Shot_0
+      name: WineGlass_1_2.0_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 10
-        width: 60
-        height: 34
+        x: 14
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73b26c9767c291120800000000000000
-      internalID: 2384986365030181687
+      spriteID: eb43687c1c772a8d0800000000000000
+      internalID: -2836573141130136386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_1
+      name: WineGlass_1_2.0_1
       rect:
         serializedVersion: 2
-        x: 95
-        y: 10
-        width: 61
-        height: 37
+        x: 110
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 908c94d46e56cead0800000000000000
-      internalID: -2671648439123982327
+      spriteID: bb4317bce13210640800000000000000
+      internalID: 5044351672800851131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_2
+      name: WineGlass_1_2.0_2
       rect:
         serializedVersion: 2
-        x: 175
-        y: 10
-        width: 61
-        height: 46
+        x: 206
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e4b491dbdb42e720800000000000000
-      internalID: 2873942919701902561
+      spriteID: ae574911a42ac3720800000000000000
+      internalID: 2827313105088050666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_3
+      name: WineGlass_1_2.0_3
       rect:
         serializedVersion: 2
-        x: 255
-        y: 10
-        width: 61
-        height: 52
+        x: 302
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00b2cc2ca0eb5dcb0800000000000000
-      internalID: -4839753271112619264
+      spriteID: f6bdd2d67e8d4dfa0800000000000000
+      internalID: -5776753933528736913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_4
+      name: WineGlass_1_2.0_4
       rect:
         serializedVersion: 2
-        x: 335
-        y: 10
-        width: 61
-        height: 41
+        x: 398
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e58653c8126800240800000000000000
-      internalID: 4755948685147596894
+      spriteID: 1a7cc8668529c5330800000000000000
+      internalID: 3700993902166984609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_5
+      name: WineGlass_1_2.0_5
       rect:
         serializedVersion: 2
-        x: 415
-        y: 10
-        width: 61
-        height: 43
+        x: 494
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a361594e7333de570800000000000000
-      internalID: 8497504387069187642
+      spriteID: 8886f20c4bab72700800000000000000
+      internalID: 515585967838423176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_6
+      name: WineGlass_1_2.0_6
       rect:
         serializedVersion: 2
-        x: 495
-        y: 10
-        width: 61
-        height: 39
+        x: 590
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 350846306c3a9cb30800000000000000
-      internalID: 4308154589412360275
+      spriteID: 7b537bdbf58623830800000000000000
+      internalID: 4049413775373579703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_7
+      name: WineGlass_1_2.0_7
       rect:
         serializedVersion: 2
-        x: 575
-        y: 10
-        width: 61
-        height: 46
+        x: 686
+        y: 7
+        width: 76
+        height: 121
       alignment: 7
-      pivot: {x: 0.5, y: 0}
+      pivot: {x: 0.5065789, y: -0.041322313}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f61623ff7eef6eb0800000000000000
-      internalID: -4724295250780743952
+      spriteID: b9dd907d44e4bd340800000000000000
+      internalID: 4889587878013296027
       vertices: []
       indices: 
       edges: []
@@ -339,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d4e551e9976b8c14a986f86ceade72af
+    spriteID: 20c2e86f994f5e34cb0f45f52947658e
     internalID: 0
     vertices: []
     indices: 
@@ -349,16 +310,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":38.5,"y":-5.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Flies_Shot_0: 2384986365030181687
-      Flies_Shot_1: -2671648439123982327
-      Flies_Shot_2: 2873942919701902561
-      Flies_Shot_3: -4839753271112619264
-      Flies_Shot_4: 4755948685147596894
-      Flies_Shot_5: 8497504387069187642
-      Flies_Shot_6: 4308154589412360275
-      Flies_Shot_7: -4724295250780743952
+      WineGlass_1_2.0_0: -2836573141130136386
+      WineGlass_1_2.0_1: 5044351672800851131
+      WineGlass_1_2.0_2: 2827313105088050666
+      WineGlass_1_2.0_3: -5776753933528736913
+      WineGlass_1_2.0_4: 3700993902166984609
+      WineGlass_1_2.0_5: 515585967838423176
+      WineGlass_1_2.0_6: 4049413775373579703
+      WineGlass_1_2.0_7: 4889587878013296027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

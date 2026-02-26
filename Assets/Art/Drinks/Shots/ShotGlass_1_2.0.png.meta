@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: b1814637da24a254f978890549b7f8da
+guid: daaa177ed2ded03419f2adbf056cdf27
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2384986365030181687
-    second: Flies_Shot_0
+      213: -5003835076799654105
+    second: ShotGlass_1_2.0_0
   - first:
-      213: -2671648439123982327
-    second: Flies_Shot_1
+      213: -9219231651784976273
+    second: ShotGlass_1_2.0_1
   - first:
-      213: 2873942919701902561
-    second: Flies_Shot_2
+      213: 3419121830311758863
+    second: ShotGlass_1_2.0_2
   - first:
-      213: -4839753271112619264
-    second: Flies_Shot_3
+      213: -2930352915929080881
+    second: ShotGlass_1_2.0_3
   - first:
-      213: 4755948685147596894
-    second: Flies_Shot_4
+      213: -3217033260473576070
+    second: ShotGlass_1_2.0_4
   - first:
-      213: 8497504387069187642
-    second: Flies_Shot_5
+      213: 5464224352577680790
+    second: ShotGlass_1_2.0_5
   - first:
-      213: 4308154589412360275
-    second: Flies_Shot_6
+      213: 7815670670508003343
+    second: ShotGlass_1_2.0_6
   - first:
-      213: -4724295250780743952
-    second: Flies_Shot_7
+      213: 2011401274368038995
+    second: ShotGlass_1_2.0_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,78 +117,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Flies_Shot_0
+      name: ShotGlass_1_2.0_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 10
-        width: 60
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73b26c9767c291120800000000000000
-      internalID: 2384986365030181687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flies_Shot_1
-      rect:
-        serializedVersion: 2
-        x: 95
+        x: 15
         y: 10
         width: 61
-        height: 37
+        height: 74
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,20 +136,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 908c94d46e56cead0800000000000000
-      internalID: -2671648439123982327
+      spriteID: 72797b4528ece8ab0800000000000000
+      internalID: -5003835076799654105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_2
+      name: ShotGlass_1_2.0_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 9
+        width: 61
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68915588a5be0080800000000000000
+      internalID: -9219231651784976273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotGlass_1_2.0_2
       rect:
         serializedVersion: 2
         x: 175
         y: 10
         width: 61
-        height: 46
+        height: 74
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e4b491dbdb42e720800000000000000
-      internalID: 2873942919701902561
+      spriteID: f0c048b7039237f20800000000000000
+      internalID: 3419121830311758863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_3
+      name: ShotGlass_1_2.0_3
       rect:
         serializedVersion: 2
         x: 255
         y: 10
         width: 61
-        height: 52
+        height: 74
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00b2cc2ca0eb5dcb0800000000000000
-      internalID: -4839753271112619264
+      spriteID: fcb54837c8b4557d0800000000000000
+      internalID: -2930352915929080881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_4
+      name: ShotGlass_1_2.0_4
       rect:
         serializedVersion: 2
         x: 335
         y: 10
         width: 61
-        height: 41
+        height: 74
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e58653c8126800240800000000000000
-      internalID: 4755948685147596894
+      spriteID: a751bde4b4dca53d0800000000000000
+      internalID: -3217033260473576070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_5
+      name: ShotGlass_1_2.0_5
       rect:
         serializedVersion: 2
         x: 415
         y: 10
         width: 61
-        height: 43
+        height: 74
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a361594e7333de570800000000000000
-      internalID: 8497504387069187642
+      spriteID: 6957e641913d4db40800000000000000
+      internalID: 5464224352577680790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_6
+      name: ShotGlass_1_2.0_6
       rect:
         serializedVersion: 2
         x: 495
         y: 10
         width: 61
-        height: 39
+        height: 74
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 350846306c3a9cb30800000000000000
-      internalID: 4308154589412360275
+      spriteID: f00911dc017d67c60800000000000000
+      internalID: 7815670670508003343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flies_Shot_7
+      name: ShotGlass_1_2.0_7
       rect:
         serializedVersion: 2
         x: 575
         y: 10
         width: 61
-        height: 46
+        height: 74
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,8 +290,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f61623ff7eef6eb0800000000000000
-      internalID: -4724295250780743952
+      spriteID: 358997b5dcee9eb10800000000000000
+      internalID: 2011401274368038995
       vertices: []
       indices: 
       edges: []
@@ -339,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d4e551e9976b8c14a986f86ceade72af
+    spriteID: 589d36d80e5127a4abc40a5d1cbb4f00
     internalID: 0
     vertices: []
     indices: 
@@ -351,14 +312,14 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Flies_Shot_0: 2384986365030181687
-      Flies_Shot_1: -2671648439123982327
-      Flies_Shot_2: 2873942919701902561
-      Flies_Shot_3: -4839753271112619264
-      Flies_Shot_4: 4755948685147596894
-      Flies_Shot_5: 8497504387069187642
-      Flies_Shot_6: 4308154589412360275
-      Flies_Shot_7: -4724295250780743952
+      ShotGlass_1_2.0_0: -5003835076799654105
+      ShotGlass_1_2.0_1: -9219231651784976273
+      ShotGlass_1_2.0_2: 3419121830311758863
+      ShotGlass_1_2.0_3: -2930352915929080881
+      ShotGlass_1_2.0_4: -3217033260473576070
+      ShotGlass_1_2.0_5: 5464224352577680790
+      ShotGlass_1_2.0_6: 7815670670508003343
+      ShotGlass_1_2.0_7: 2011401274368038995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
